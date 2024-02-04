@@ -1,4 +1,4 @@
-![logo](https://github.com/S2b4o7/s2b4o7/blob/index/github-header-image.png?raw=true)
+![logo](https://github.com/S2b4o7/s2b4o7/blob/index/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Shubham Goyal</h1>
 <h3 align="center">JavaScript Maestro | MERN Stack Developer | DSA Geek | Solving Puzzles in Code 💻🔐</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
